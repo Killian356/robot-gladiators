@@ -14,8 +14,12 @@ console.log("Our robot's name is" + playerName);
 
 // this creates a function named "fight"
 
+// "Declaring" a function
+
 function fight() {
     window.alert("The fight has begun!");
 }
+
+// Calling a function
 
 // fight();
