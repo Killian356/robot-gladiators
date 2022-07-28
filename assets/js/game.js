@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // variable function for fighters name
 
 var playerName = window.prompt("What is your robot's name?");
@@ -24,6 +23,3 @@ function fight() {
 // Calling a function
 
 // fight();
-=======
-window.alert("This is an alert! JavaScript is running!");
->>>>>>> 6caa1d0da777228a89c3e9e9e4ee858a0da5e32d
